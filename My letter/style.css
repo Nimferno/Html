@@ -1,0 +1,13 @@
+* {
+    font-family: 'Archivo', sans-serif;
+    font-family: 'Arvo', serif;
+    font-family: 'Oxygen', sans-serif;
+    font-size: 16px;
+}
+p {
+    font-weight: 400;
+    color: #191919;
+}
+a {
+    color: #1d84fa;
+}
